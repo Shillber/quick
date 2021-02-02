@@ -80,8 +80,8 @@
           vy *= -1;
         }
 
-        x = x + 20 * vx;
-        y = y + 20 * vy;
+        x = x + 50 * vx;
+        y = y + 50 * vy;
 
         new StickyNote({
           root: self.root,
